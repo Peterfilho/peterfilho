@@ -57,6 +57,20 @@ Currently using --> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />          
 </div>
 
+
+## :notes: Now playing
+<div>
+  <a href="https://open.spotify.com/user/peterfilhoo"><img src="https://now-playing-peterson.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+</div>
+
+
+<details>
+  <summary>Recently played</summary>
+  <a href="https://open.spotify.com/user/peterfilhoo"><img src="https://spotify-recently-played-readme.vercel.app/api?user=peterfilhoo&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
+
+
+
 ## You can find me on
 
 <div style="display: inline_block">
