@@ -60,7 +60,7 @@ Currently using --> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=
 
 ## :notes: Now playing
 <div>
-  <a href="https://open.spotify.com/user/peterfilhoo"><img src="https://now-playing-peterson.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+  <a href="https://open.spotify.com/user/peterfilhoo"><img src="https://spotify-now-playing-sand-rho.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 </div>
 
 
